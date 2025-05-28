@@ -7,3 +7,7 @@
 ```Python
 print("Hola mundo hija")
 ```
+
+``` javascript
+var myVar = "Hello, world!";
+```
